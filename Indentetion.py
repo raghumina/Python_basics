@@ -13,3 +13,9 @@ for i in range(999,1001):
     print(i)
     if i== 1:
         break
+
+# This will show error because of indentation (indentation error)
+for i in range(999,1001):
+print(i)
+if i== 1:
+break 
