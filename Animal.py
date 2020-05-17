@@ -1,3 +1,5 @@
+# An picture of animal using strings
+
 print("""
 Switching on camera from habitat with camels...
  ___.-''''-.
