@@ -36,3 +36,7 @@ print("hour =", a.hour)
 print("minute =", a.minute)
 print("second =", a.second)
 print("microsecond =", a.microsecond)
+
+a = 5
+name = 'raghu' 
+print('%s %d' %(a,name) )
