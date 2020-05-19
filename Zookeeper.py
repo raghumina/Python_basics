@@ -36,7 +36,7 @@
 #The end of the program. To check another habitat restart the watcher please.
 
 
-habitat = [camel,lion,deer,goose,bat,rabbit]
-camel = int(input("Which habitat"  #  do you need?))
-print(habitat[0])
-
+habitat = ['camel','lion','deer','goose','bat','rabbit']
+habitat = int(input('Which habitat # do you need? > '))
+print(habitat,'''
+''')
