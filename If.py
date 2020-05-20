@@ -33,6 +33,11 @@ country = input()
 if country.upper() == "INDIA":  # the upper() function will convert the user input in upper cases 
     print("congrats you can avail this offer ")
     print("please proceed with other formalities")
-print("its ohk if you are from another conutry ")
+print("its ohk if you are from another country ")
 
-
+a = 3
+b = 4 
+if a<b:
+    print('ello')
+else:
+    print("yoy")
