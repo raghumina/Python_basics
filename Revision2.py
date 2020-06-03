@@ -51,5 +51,7 @@ if x < 5:
 elif x > 12 and x < 10:
     print(" what is this ")
 else:
-    print("save me from this comples logic")
-print("that\'s all")    
+    print("save me from this comples logic")  # no upper condition will be true so this message will get printed 
+print("that\'s all")   
+
+
