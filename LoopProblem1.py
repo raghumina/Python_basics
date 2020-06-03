@@ -4,7 +4,7 @@
 import turtle
 print("please enter the values that you want to enter ")
 steps1 = int(input())
-for steps in range(steps1):
+for steps in range(steps1):  # Here the steps1 is user input
     turtle.color('yellow')
     turtle.forward(150)
     turtle.right(90)
