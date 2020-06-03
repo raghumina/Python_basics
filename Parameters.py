@@ -14,3 +14,6 @@ def palyerNames():
     return 
 
 main()
+
+For steps in range(1,10,2)
+		Print(steps)
