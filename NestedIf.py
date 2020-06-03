@@ -19,3 +19,6 @@ if name == "Xyz":
             if dept == "computer":
                 print(""" woww
                 welcomebacl""")
+else:
+   print("who are you ??")
+ 
