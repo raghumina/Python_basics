@@ -22,6 +22,6 @@
 
 
 # Sort names in alphabstical orders 
-players.sort()
-for players in players:
+players.sort()  # This will sort the names by alphabaticl order
+for players in players:  
     print(players)
