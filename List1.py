@@ -9,10 +9,10 @@ print(number[-1])
 print(guest[1],number[1])  # Print two list together 
 
 
-# will try how to enter string or number into a list through input 
-print("please enter your name ")
-name = input()
-guestName = [name]
-print(guestName[2])
+# # will try how to enter string or number into a list through input 
+# print("please enter your name ")
+# name = input()
+# guestName = [name]
+# print(guestName[2])
 
 
