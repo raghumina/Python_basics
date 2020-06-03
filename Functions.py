@@ -35,7 +35,7 @@ def lines():
     turtle.forward(100)
     turtle.right(90)
     for lines in range(8):
-        turtle.color("red","green")
+        turtle.color("red")
         turtle.forward(100)
         turtle.right(90)
     return    
