@@ -28,3 +28,11 @@ print(z)   # well the output will be x + y which is 3
 name  = "Tim"
 city = "Texas"
 print(name,"lives in",city)  # so the output will be "Tim lives in Texas"
+
+# the third data type will be float 
+# will use float with a varaible 
+
+salary = 1000.00
+year = "2020"
+name = "Tim"
+print("The salary of",name,"in year",year,"is",salary)  # well the output will be "The salary of Tim in year 2020 is 1000.0"
