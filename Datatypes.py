@@ -36,3 +36,11 @@ salary = 1000.00
 year = "2020"
 name = "Tim"
 print("The salary of",name,"in year",year,"is",salary)  # well the output will be "The salary of Tim in year 2020 is 1000.0"
+
+
+
+# LETS THE SIMPLE PYTHON CODE FOR A STRING OR MESSAGE WILL BE 
+
+name = input("Please enter your Name :")
+age  = int(input("Please enter your age :"))
+print(name, "\n",age) 
