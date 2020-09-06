@@ -43,4 +43,4 @@ print("The salary of",name,"in year",year,"is",salary)  # well the output will b
 
 name = input("Please enter your Name :")
 age  = int(input("Please enter your age :"))
-print(name, "\n",age) 
+print(name,"\n",age) 
