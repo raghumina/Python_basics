@@ -51,3 +51,11 @@ print(type(c))
 
 name  = "    tom    "
 print(name.strip())
+
+# and the len function 
+# the len finction is used to find the length of the varaible 
+title = "Harry Potter and Prisoner of Azkaban"
+print(len(title))  # it gives a length of 36 , it also counts the spaces between the words 
+
+print(title.upper()) # converts all the variable in upper case 
+print(title.lower())  # converts all the varaible in lower case 
