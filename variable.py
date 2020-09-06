@@ -40,3 +40,14 @@ print(type(b))
 c = 22.22
 c = str(c)
 print(type(c))
+
+
+
+# strip functions in python 
+# strip 
+# the strip function will remove the excess space in the variable 
+# and the r strip will remove the space from the right side of the variable 
+# and as usual the lstrip will remove the space from the left side of the variable 
+
+name  = "    tom    "
+print(name.strip())
