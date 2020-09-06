@@ -18,4 +18,25 @@
 # the idea is to print a number woith type casting 
 num1 = 22 
 num2 = "22"
-print(num1 + int(num2))
+print(num1 + int(num2))  # this also works like this 
+
+
+# lets take another simple problem 
+a = 22 
+b = "22"
+c = 22.22
+print(type(a))
+print(type(b))
+print(type(c))
+
+a = 22 
+a = str(a)
+print(type(a))
+
+b = "22"
+b = int(b)
+print(type(b))
+
+c = 22.22
+c = str(c)
+print(type(c))
