@@ -15,7 +15,7 @@
 # lets check another example 
 # lets try to make a simple program  with type casting method 
 
-num1 = input("Please enter a number 1:")
-num2 = input("Please enter number 2:")
-num3 = num1 + num2
-print(num3)
+# the idea is to print a number woith type casting 
+num1 = 22 
+num2 = "22"
+print(num1 + int(num2))
