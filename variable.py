@@ -59,3 +59,13 @@ print(len(title))  # it gives a length of 36 , it also counts the spaces between
 
 print(title.upper()) # converts all the variable in upper case 
 print(title.lower())  # converts all the varaible in lower case 
+
+# replace function 
+# this function will replace the given value with another given value 
+# for example 
+
+Name = "Tom and Perry"
+Name1 = Name.replace("P","J")
+print(Name1)
+
+
