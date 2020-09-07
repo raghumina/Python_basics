@@ -9,7 +9,7 @@
 ##a = "tom"
 ##b = str(22)
 ##print(a + b) 
-
+'''
 # now it wil show a output tom22
 
 # lets check another example 
@@ -67,5 +67,13 @@ print(title.lower())  # converts all the varaible in lower case
 Name = "Tom and Perry"
 Name1 = Name.replace("P","J")
 print(Name1)
+'''
+
+
+# to interchange the variables 
+player1 = "Messi"
+player2 = "Ozil"
+line = f"{player1} is better than {player2}"
+print(line)
 
 
