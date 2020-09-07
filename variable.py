@@ -67,7 +67,7 @@ print(title.lower())  # converts all the varaible in lower case
 Name = "Tom and Perry"
 Name1 = Name.replace("P","J")
 print(Name1)
-'''
+
 
 
 # to interchange the variables 
@@ -75,5 +75,11 @@ player1 = "Messi"
 player2 = "Ozil"
 line = f"{player1} is better than {player2}"
 print(line)
+'''
+# lets use this on multiple lines 
+player1 = "messi"
+player2 = "neymar"
+player3 = "suarez"
 
-
+msn = f"msn is the greastest football attacking trident in which{player1} palyes as RW, and {player2} playes as LW, and {player3} palyes as CF among this three the {player1}is the best player"
+print(msn)
