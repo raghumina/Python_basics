@@ -28,5 +28,7 @@ table3 = [11,22,33,55,66,77,88,99]
 #table3.pop()
 print(table3)    # .pop function automatically removes the last value of the list
 
-del table3[1]
+del table3[1]    # del will del the specified value from the list 
 print(table3)
+
+
