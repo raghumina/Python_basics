@@ -29,10 +29,4 @@ for data in dict1:
 '''
 # lets do this for tuples 
 
-tup1 = ("1",2,3,4,5,6,7)
 
-if tup1 == 2:
-    print("data found ")
-else: 
-    print("data not found ")
-# lets try something esle with this 
